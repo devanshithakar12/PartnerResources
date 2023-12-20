@@ -1,8 +1,8 @@
 ---
 layout: page
-title: AI & ML Academy - Prebuilt AI
+title: AI & ML Academy - Customizable AI Models
 sorttitle: 01
-description: Workshop focused on AI and ML - Prebuilt AI
+description: Workshop focused on AI and ML - Customizable AI Models
 permalink: /skilling/ai-ml-academy/prebuilt-ai
 updated: 2022-10-17
 showbreadcrumb: true
